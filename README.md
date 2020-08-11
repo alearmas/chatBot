@@ -1,1 +1,1 @@
-.
+I get to know the basic syntax of Java and write a simple program using variables, conditions, loops, and methods. Creating a simple console chat bot will do wonders to guide  through the basics of coding.
